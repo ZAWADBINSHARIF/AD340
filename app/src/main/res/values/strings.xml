@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AD340</string>
+    <string name="Error_zipcode"> Invalid Zip Code</string>
+</resources>
